@@ -1,0 +1,4 @@
+"response","shock_selected","outcome_median","outcome_min","outcome_max","union_median","union_min","union_max","always_included_covariates","always_included_with_intercept"
+"FFR",9,12,6,28,21,15,37,67,68
+"IP",9,11,2,21,20,11,30,67,68
+"CPI",9,17,5,31,26,13,40,67,68

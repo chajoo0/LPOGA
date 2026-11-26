@@ -1,0 +1,3 @@
+Elapsed seconds: 193.9
+RUN_HDLP: FALSE
+N_THREADS: not used (RUN_HDLP was FALSE)

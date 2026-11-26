@@ -1,0 +1,4 @@
+DGP,Shock Eq.,Outcome Eq.,Selected Union
+Shock contamination,3,1 (1--5),4 (2--10)
+Outcome nuisance,1,4 (1--16),5 (1--17)
+Factor contamination,6,1 (1--5),7 (3--14)

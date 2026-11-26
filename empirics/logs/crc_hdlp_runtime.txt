@@ -1,0 +1,3 @@
+Elapsed seconds: 9844.3
+RUN_HDLP: TRUE
+N_THREADS: 16
